@@ -15,7 +15,7 @@ An analysis of coffee sales data using Excel, showcasing custom Executive and Ma
 
 <img width="625" alt="image" src="https://github.com/user-attachments/assets/1e91913f-07f8-4916-bc3f-64bf0d669981" />
 
-
+<img width="455" alt="image" src="https://github.com/user-attachments/assets/def7c626-aea1-47f3-a4d9-a6770f28b149" />
 
 ## Key Features and Techniques
 - **Data Wrangling:** Used XLOOKUP to populate missing data across sheets.  
