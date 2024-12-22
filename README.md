@@ -13,6 +13,8 @@ An analysis of coffee sales data using Excel, showcasing custom Executive and Ma
 - **Executive Dashboard:** High-level KPIs and trends for quick insights.  
 - **Manager Dashboard:** Granular visualizations like sales and profit breakdowns by coffee type and most-sold products.
 
+<img width="625" alt="image" src="https://github.com/user-attachments/assets/1e91913f-07f8-4916-bc3f-64bf0d669981" />
+
 
 
 ## Key Features and Techniques
